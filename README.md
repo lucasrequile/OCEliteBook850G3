@@ -6,4 +6,4 @@ I used SMBIOS of MacBookPro13,3, however; I would advise using MacBookPro13,1 or
 ```
 git clone https://github.com/lucasrequile/OCEliteBook850G3
 ```
-Everything is working as far as I'm aware, including native Intel [Bluetooth](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) and [WiFi](https://github.com/OpenIntelWireless/itlwm) support. 
+Everything is working as far as I'm aware, including native Intel [Bluetooth](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) and [WiFi](https://github.com/OpenIntelWireless/itlwm) support. I am running on the latest MacOS Big Sur 11.2.3 at the moment.
