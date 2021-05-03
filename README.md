@@ -1,5 +1,5 @@
 # OCEliteBook850G3
-OpenCore EFI folder for the HP EliteBook 850 G3 on [OpenCore 0.6.8](https://github.com/acidanthera/OpenCorePkg)
+OpenCore EFI folder for the HP EliteBook 850 G3 on [OpenCore 0.6.9](https://github.com/acidanthera/OpenCorePkg)
 
 Clone and copy to your EFI folder. Don't forget to add your own [SMBIOS](https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#macbook-pro). ([ProperTree](https://github.com/corpnewt/ProperTree) is advised)
 I used SMBIOS of MacBookPro13,3, however; I would advise using MacBookPro13,1 or MacBookPro13,2 since they are using Skylake U processors.
