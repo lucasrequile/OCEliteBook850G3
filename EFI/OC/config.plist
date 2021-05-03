@@ -1739,6 +1739,12 @@
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
 			<false/>
+			<key>EnableVectorAcceleration</key>
+			<true/>
+			<key>ForgeUefiSupport</key>
+			<false/>
+			<key>ReloadOptionRoms</key>
+			<false/>
 		</dict>
 		<key>ReservedMemory</key>
 		<array>
