@@ -123,6 +123,10 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -133,6 +137,20 @@
 				<data>X0RTTQ==</data>
 				<key>Replace</key>
 				<data>WERTTQ==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
+				<key>Count</key>
+				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -143,6 +161,20 @@
 				<data>X09TSQ==</data>
 				<key>Replace</key>
 				<data>WE9TSQ==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
+				<key>Count</key>
+				<integer>2</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -153,6 +185,18 @@
 				<data>RUMwXw==</data>
 				<key>Replace</key>
 				<data>RUNfXw==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -163,6 +207,18 @@
 				<data>R0ZYMA==</data>
 				<key>Replace</key>
 				<data>SUdQVQ==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -173,6 +229,18 @@
 				<data>SEVDSQhfQURSDAAAFgA=</data>
 				<key>Replace</key>
 				<data>SEVDSQhfQURSDAAAAAA=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -183,6 +251,18 @@
 				<data>SERBUw==</data>
 				<key>Replace</key>
 				<data>SERFRg==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -193,6 +273,18 @@
 				<data>VVBSVwpwEg==</data>
 				<key>Replace</key>
 				<data>WFBSVwpwEg==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -203,6 +295,18 @@
 				<data>R1BSVwI=</data>
 				<key>Replace</key>
 				<data>WFBSVwI=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -213,6 +317,18 @@
 				<data>AAAZABQfX1BSVwg=</data>
 				<key>Replace</key>
 				<data>AAAZABQfWFBSVwg=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -223,6 +339,18 @@
 				<data>X1BUUwE=</data>
 				<key>Replace</key>
 				<data>WlBUUwE=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -233,6 +361,18 @@
 				<data>X1dBSwE=</data>
 				<key>Replace</key>
 				<data>WldBSwE=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -243,6 +383,18 @@
 				<data>X1dBSwk=</data>
 				<key>Replace</key>
 				<data>WldBSwk=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -253,6 +405,18 @@
 				<data>QlRJRgl5Cg==</data>
 				<key>Replace</key>
 				<data>QlRJMAl5Cg==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -263,6 +427,18 @@
 				<data>QlRJRgl5AWg=</data>
 				<key>Replace</key>
 				<data>QlRJMAl5AWg=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -273,6 +449,18 @@
 				<data>QlRTVAp5Cg==</data>
 				<key>Replace</key>
 				<data>QlRTMQp5Cg==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -283,6 +471,16 @@
 				<data>QlRTVAp5AWg=</data>
 				<key>Replace</key>
 				<data>QlRTMQp5AWg=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -293,6 +491,16 @@
 				<data>U0JUQwNwDQ==</data>
 				<key>Replace</key>
 				<data>U0JUMgNwDQ==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -303,6 +511,16 @@
 				<data>R0JUSQFwDQ==</data>
 				<key>Replace</key>
 				<data>R0JUMwFwDQ==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -313,6 +531,16 @@
 				<data>R0JUQwBwDQ==</data>
 				<key>Replace</key>
 				<data>R0JUNABwDQ==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -323,6 +551,16 @@
 				<data>SVRMQgA=</data>
 				<key>Replace</key>
 				<data>SVRMMQA=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -333,6 +571,16 @@
 				<data>R0FDVwA=</data>
 				<key>Replace</key>
 				<data>WEFDVwA=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -343,6 +591,16 @@
 				<data>R0JBVwA=</data>
 				<key>Replace</key>
 				<data>WEJBVwA=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -353,6 +611,16 @@
 				<data>CE5CVEk=</data>
 				<key>Replace</key>
 				<data>CE5CVDU=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -363,6 +631,16 @@
 				<data>hlwuX1NCX0JBVDA=</data>
 				<key>Replace</key>
 				<data>hlwuX1NCX0JBVEM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -373,6 +651,16 @@
 				<data>hlwuX1NCX0JBVDE=</data>
 				<key>Replace</key>
 				<data>hlwuX1NCX0JBVEM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -383,6 +671,16 @@
 				<data>hkJBVDA=</data>
 				<key>Replace</key>
 				<data>hkJBVEM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -393,6 +691,16 @@
 				<data>hkJBVDE=</data>
 				<key>Replace</key>
 				<data>hkJBVEM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -403,6 +711,16 @@
 				<data>UkRTUwk=</data>
 				<key>Replace</key>
 				<data>WERTUwk=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -413,16 +731,16 @@
 				<data>X1JFRwKgKJNoCgM=</data>
 				<key>Replace</key>
 				<data>WFJFRwKgKJNoCgM=</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>change EC Method(_REG,2,N) to XREG, 4x0 G3 Skylake</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1JFRwKgFJNoCgM=</data>
-				<key>Replace</key>
-				<data>WFJFRwKgFJNoCgM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -433,6 +751,36 @@
 				<data>RwFwAHAAAQg=</data>
 				<key>Replace</key>
 				<data>RwFwAHAAAQI=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>change EC Method(_REG,2,N) to XREG, 4x0 G3 Skylake</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>X1JFRwKgFJNoCgM=</data>
+				<key>Replace</key>
+				<data>WFJFRwKgFJNoCgM=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -446,11 +794,32 @@
 			<key>ResetHwSig</key>
 			<false/>
 			<key>ResetLogoStatus</key>
+			<true/>
+			<key>SyncTableIds</key>
 			<false/>
 		</dict>
 	</dict>
 	<key>Booter</key>
 	<dict>
+		<key>MmioWhitelist</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<integer>4275159040</integer>
+				<key>Comment</key>
+				<string>Haswell: SB_RCBA is a 0x4 page memory region, containing SPI_BASE at 0x3800 (SPI_BASE_ADDRESS)</string>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Address</key>
+				<integer>4278190080</integer>
+				<key>Comment</key>
+				<string>Generic: PCI root is a 0x1000 page memory region used by some firmwares</string>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+		</array>
 		<key>Patch</key>
 		<array>
 			<dict>
@@ -478,29 +847,8 @@
 				<integer>0</integer>
 			</dict>
 		</array>
-		<key>MmioWhitelist</key>
-		<array>
-			<dict>
-				<key>Address</key>
-				<integer>4275159040</integer>
-				<key>Comment</key>
-				<string>Haswell: SB_RCBA is a 0x4 page memory region, containing SPI_BASE at 0x3800 (SPI_BASE_ADDRESS)</string>
-				<key>Enabled</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Address</key>
-				<integer>4278190080</integer>
-				<key>Comment</key>
-				<string>Generic: PCI root is a 0x1000 page memory region used by some firmwares</string>
-				<key>Enabled</key>
-				<false/>
-			</dict>
-		</array>
 		<key>Quirks</key>
 		<dict>
-			<key>ForceBooterSignature</key>
-			<false/>
 			<key>AllowRelocationBlock</key>
 			<false/>
 			<key>AvoidRuntimeDefrag</key>
@@ -517,6 +865,8 @@
 			<true/>
 			<key>EnableWriteUnprotector</key>
 			<true/>
+			<key>ForceBooterSignature</key>
+			<false/>
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
@@ -543,33 +893,20 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
+			<key>#PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
 				<key>layout-id</key>
 				<data>AQAAAA==</data>
 			</dict>
-			<key>#PciRoot(0x0)/Pci(0x1c,0x03)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>WLAN</string>
-				<key>compatible</key>
-				<string>pci14e4,43a0</string>
-				<key>device_type</key>
-				<string>Airport Extreme</string>
-				<key>model</key>
-				<string>Dell DW1820a 802.11ac Wifi</string>
-				<key>name</key>
-				<string>Airport</string>
-				<key>pci-aspm-default</key>
-				<integer>0</integer>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>layout-id</key>
-				<integer>15</integer>
+				<integer>13</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>AAAWGQ==</data>
 				<key>framebuffer-con3-alldata</key>
 				<data>AwYKAAAIAACHAQAA</data>
 				<key>framebuffer-con3-enable</key>
@@ -585,17 +922,6 @@
 	</dict>
 	<key>Kernel</key>
 	<dict>
-		<key>Scheme</key>
-		<dict>
-			<key>FuzzyMatch</key>
-			<true/>
-			<key>KernelArch</key>
-			<string>x86_64</string>
-			<key>KernelCache</key>
-			<string>Auto</string>
-		</dict>
-		<key>Force</key>
-		<array/>
 		<key>Add</key>
 		<array>
 			<dict>
@@ -1092,24 +1418,26 @@
 		</array>
 		<key>Emulate</key>
 		<dict>
-			<key>MinKernel</key>
-			<string></string>
-			<key>MaxKernel</key>
-			<string></string>
-			<key>DummyPowerManagement</key>
-			<false/>
 			<key>Cpuid1Data</key>
 			<data></data>
 			<key>Cpuid1Mask</key>
 			<data></data>
+			<key>MaxKernel</key>
+			<string></string>
+			<key>DummyPowerManagement</key>
+			<false/>
+			<key>MinKernel</key>
+			<string></string>
 		</dict>
+		<key>Force</key>
+		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
-				<key>Base</key>
-				<string></string>
 				<key>Arch</key>
 				<string>x86_64</string>
+				<key>Base</key>
+				<string></string>
 				<key>Comment</key>
 				<string>internal HD patch test</string>
 				<key>Count</key>
@@ -1288,16 +1616,6 @@
 		</array>
 		<key>Quirks</key>
 		<dict>
-			<key>SetApfsTrimTimeout</key>
-			<integer>-1</integer>
-			<key>LegacyCommpage</key>
-			<false/>
-			<key>ForceSecureBootScheme</key>
-			<false/>
-			<key>ExtendBTFeatureFlags</key>
-			<false/>
-			<key>DisableLinkeditJettison</key>
-			<true/>
 			<key>AppleCpuPmCfgLock</key>
 			<false/>
 			<key>AppleXcpmCfgLock</key>
@@ -1310,22 +1628,45 @@
 			<false/>
 			<key>DisableIoMapper</key>
 			<true/>
+			<key>DisableLinkeditJettison</key>
+			<true/>
 			<key>DisableRtcChecksum</key>
 			<true/>
+			<key>ExtendBTFeatureFlags</key>
+			<false/>
 			<key>ExternalDiskIcons</key>
+			<false/>
+			<key>ForceSecureBootScheme</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
 			<true/>
+			<key>LegacyCommpage</key>
+			<false/>
 			<key>PanicNoKextDump</key>
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
+			<key>ProvideCurrentCpuInfo</key>
+			<false/>
+			<key>SetApfsTrimTimeout</key>
+			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
 			<true/>
+		</dict>
+		<key>Scheme</key>
+		<dict>
+			<key>CustomKernel</key>
+			<false/>
+			<key>FuzzyMatch</key>
+			<true/>
+			<key>KernelArch</key>
+			<string>x86_64</string>
+			<key>KernelCache</key>
+			<string>Auto</string>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -1334,24 +1675,24 @@
 		<array/>
 		<key>Boot</key>
 		<dict>
-			<key>PickerVariant</key>
-			<string>Modern</string>
-			<key>LauncherPath</key>
-			<string>Default</string>
-			<key>LauncherOption</key>
-			<string>Disabled</string>
 			<key>ConsoleAttributes</key>
 			<integer>0</integer>
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
 			<false/>
+			<key>LauncherOption</key>
+			<string>Disabled</string>
+			<key>LauncherPath</key>
+			<string>Default</string>
 			<key>PickerAttributes</key>
 			<integer>17</integer>
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
 			<string>External</string>
+			<key>PickerVariant</key>
+			<string>Acidanthera\GoldenGate</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -1363,12 +1704,10 @@
 		</dict>
 		<key>Debug</key>
 		<dict>
-			<key>SerialInit</key>
-			<false/>
 			<key>#Target </key>
-			<integer>67</integer>
+			<integer>3</integer>
 			<key>AppleDebug</key>
-			<true/>
+			<false/>
 			<key>ApplePanic</key>
 			<true/>
 			<key>DisableWatchDog</key>
@@ -1377,6 +1716,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
+			<key>SerialInit</key>
+			<false/>
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -1393,6 +1734,8 @@
 				<string>Not signed for security reasons</string>
 				<key>Enabled</key>
 				<false/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>CustomOS</string>
 				<key>Path</key>
@@ -1403,32 +1746,34 @@
 		</array>
 		<key>Security</key>
 		<dict>
-			<key>BlacklistAppleUpdate</key>
-			<true/>
-			<key>EnablePassword</key>
-			<false/>
-			<key>DmgLoading</key>
-			<string>Signed</string>
-			<key>PasswordHash</key>
-			<data></data>
-			<key>ApECID</key>
-			<integer>0</integer>
-			<key>PasswordSalt</key>
-			<data></data>
 			<key>AllowNvramReset</key>
 			<true/>
-			<key>SecureBootModel</key>
-			<string>Default</string>
 			<key>AllowSetDefault</key>
 			<true/>
+			<key>AllowToggleSip</key>
+			<false/>
+			<key>ApECID</key>
+			<integer>0</integer>
 			<key>AuthRestart</key>
+			<false/>
+			<key>BlacklistAppleUpdate</key>
+			<true/>
+			<key>DmgLoading</key>
+			<string>Signed</string>
+			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
 			<integer>6</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
+			<key>PasswordHash</key>
+			<data></data>
+			<key>PasswordSalt</key>
+			<data></data>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
+			<key>SecureBootModel</key>
+			<string>Default</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1443,6 +1788,8 @@
 				<string>OpenShell.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>Open Shell</string>
 				<key>Path</key>
@@ -1472,16 +1819,18 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
-				<key>SystemAudioVolume</key>
-				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 agdpmod=vit9696 darkwake=1 alcdelay=500 alcid=3</string>
+				<string>keepsyms=1 debug=0x100 agdpmod=vit9696 darkwake=1 alcdelay=500</string>
+				<key>ForceDisplayRotationInEFI</key>
+				<integer>0</integer>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>ZW4tVVM6MA==</data>
 				<key>run-efi-updater</key>
 				<string>No</string>
+				<key>SystemAudioVolume</key>
+				<data>Rg==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1535,32 +1884,28 @@
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
-		<key>UseRawUuidEncoding</key>
-		<false/>
-		<key>CustomMemory</key>
-		<false/>
 		<key>Automatic</key>
 		<true/>
 		<key>Generic</key>
 		<dict>
-			<key>MaxBIOSVersion</key>
+			<key>AdviseFeatures</key>
 			<false/>
-			<key>AdviseWindows</key>
+			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
 			<string></string>
+			<key>ProcessorType</key>
+			<integer>0</integer>
+			<key>ROM</key>
+			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string></string>
-			<key>ProcessorType</key>
-			<integer>0</integer>
+			<string>MacBookPro13,3</string>
 			<key>SystemSerialNumber</key>
 			<string></string>
-			<key>ROM</key>
-			<data>ESIzRFVm</data>
 			<key>SystemUUID</key>
 			<string></string>
 		</dict>
@@ -1572,6 +1917,10 @@
 		<true/>
 		<key>UpdateSMBIOSMode</key>
 		<string>Create</string>
+		<key>CustomMemory</key>
+		<false/>
+		<key>UseRawUuidEncoding</key>
+		<false/>
 	</dict>
 	<key>UEFI</key>
 	<dict>
@@ -1590,33 +1939,12 @@
 			<key>MinVersion</key>
 			<integer>0</integer>
 		</dict>
-		<key>Audio</key>
-		<dict>
-			<key>ResetTrafficClass</key>
-			<false/>
-			<key>SetupDelay</key>
-			<integer>0</integer>
-			<key>AudioCodec</key>
-			<integer>0</integer>
-			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
-			<key>AudioOut</key>
-			<integer>0</integer>
-			<key>AudioSupport</key>
-			<false/>
-			<key>MinimumVolume</key>
-			<integer>20</integer>
-			<key>PlayChime</key>
-			<string>Auto</string>
-			<key>VolumeAmplifier</key>
-			<integer>0</integer>
-		</dict>
 		<key>AppleInput</key>
 		<dict>
 			<key>AppleEvent</key>
 			<string>Builtin</string>
 			<key>CustomDelays</key>
-			<string>Auto</string>
+			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
@@ -1625,6 +1953,27 @@
 			<integer>1</integer>
 			<key>PointerSpeedMul</key>
 			<integer>1</integer>
+		</dict>
+		<key>Audio</key>
+		<dict>
+			<key>AudioCodec</key>
+			<integer>0</integer>
+			<key>AudioDevice</key>
+			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
+			<key>AudioOut</key>
+			<integer>13</integer>
+			<key>AudioSupport</key>
+			<true/>
+			<key>MinimumVolume</key>
+			<integer>20</integer>
+			<key>PlayChime</key>
+			<string>Enabled</string>
+			<key>ResetTrafficClass</key>
+			<false/>
+			<key>SetupDelay</key>
+			<integer>500</integer>
+			<key>VolumeAmplifier</key>
+			<integer>143</integer>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
@@ -1681,8 +2030,6 @@
 			<string>BuiltinGraphics</string>
 			<key>UgaPassThrough</key>
 			<false/>
-			<key>GopPassThrough</key>
-			<false/>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
@@ -1692,17 +2039,19 @@
 			<false/>
 			<key>AppleDebugLog</key>
 			<false/>
-			<key>AppleImg4Verification</key>
+			<key>AppleEg2Info</key>
 			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
 			<key>AppleImageConversion</key>
 			<false/>
-			<key>AppleSecureBoot</key>
+			<key>AppleImg4Verification</key>
 			<false/>
 			<key>AppleKeyMap</key>
 			<false/>
 			<key>AppleRtcRam</key>
+			<false/>
+			<key>AppleSecureBoot</key>
 			<false/>
 			<key>AppleSmcIo</key>
 			<false/>
@@ -1723,27 +2072,27 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
-			<key>DisableSecurityPolicy</key>
-			<false/>
 			<key>ActivateHpetSupport</key>
 			<false/>
+			<key>DisableSecurityPolicy</key>
+			<false/>
+			<key>EnableVectorAcceleration</key>
+			<true/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForgeUefiSupport</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
 			<true/>
+			<key>ReloadOptionRoms</key>
+			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
-			<false/>
-			<key>EnableVectorAcceleration</key>
-			<true/>
-			<key>ForgeUefiSupport</key>
-			<false/>
-			<key>ReloadOptionRoms</key>
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
@@ -1751,14 +2100,14 @@
 			<dict>
 				<key>Address</key>
 				<integer>569344</integer>
-				<key>Type</key>
-				<string>RuntimeCode</string>
 				<key>Comment</key>
 				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad T490</string>
 				<key>Enabled</key>
 				<false/>
 				<key>Size</key>
 				<integer>4096</integer>
+				<key>Type</key>
+				<string>RuntimeCode</string>
 			</dict>
 			<dict>
 				<key>Address</key>
